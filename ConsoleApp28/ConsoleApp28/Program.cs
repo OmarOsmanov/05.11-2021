@@ -1,4 +1,8 @@
-﻿using Sqrt3;
+//kok taski
+
+
+
+using Sqrt3;
 using System;
 
 namespace Task
